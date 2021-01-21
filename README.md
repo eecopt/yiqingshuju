@@ -22,7 +22,7 @@
 
 ## 项目GitHub地址
 
->https://github.com/eecopt/travel
+>https://github.com/eecopt/yiqingshuju
 
 ##项目技术栈
 1. HTML
