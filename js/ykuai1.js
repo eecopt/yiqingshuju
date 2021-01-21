@@ -11,11 +11,11 @@
     legend: {
       orient: "vertical",
       left: 10,
-      data: ["one", "two", "three", "four", "five"]
+      data: ["石家庄", "廊坊", "邢台"]
     },
     series: [
       {
-        name: "访问来源",
+        name: "感染人数",
         type: "pie",
         radius: ["50%", "70%"],
         avoidLabelOverlap: false,
@@ -27,18 +27,17 @@
           label: {
             show: true,
             fontSize: "30",
-            fontWeight: "bold"
+            fontWeight: "bold",
+            color: "rgba(255,255,255,.6)"
           }
         },
         labelLine: {
           show: false
         },
         data: [
-          { value: 335, name: "one" },
-          { value: 310, name: "two" },
-          { value: 234, name: "three" },
-          { value: 135, name: "four" },
-          { value: 1548, name: "five" }
+          { value: 777, name: "石家庄" },
+          { value: 1, name: "廊坊" },
+          { value: 53, name: "邢台" }
         ]
       }
     ]

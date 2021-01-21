@@ -131,7 +131,7 @@
         },
         data: [
           {
-            name: "新冠肺炎愈后一般6个月内不会再得",
+            name: "无症状感染者为什么增多了",
             value: 2373,
             symbolSize: 48,
             draggable: true,
@@ -141,10 +141,12 @@
                 shadowColor: colorList[0],
                 color: colorList[0]
               }
-            }
+            },
+            url:
+              "https://baijiahao.baidu.com/s?id=1689186116878758870&wfr=spider&for=pc"
           },
           {
-            name: "女篮两连胜后大喊武汉加油",
+            name: "北京新增3名本土感染者，最小感染者9岁",
             value: 5449,
             symbolSize: 73,
             draggable: true,
@@ -154,10 +156,11 @@
                 shadowColor: colorList[1],
                 color: colorList[1]
               }
-            }
+            },
+            url: "https://baijiahao.baidu.com/s?id=1689485742659016326"
           },
           {
-            name: "火神山医院开微博",
+            name: "石家庄核酸检测一线，有支“白求恩医疗队",
             value: 2289,
             symbolSize: 67,
             draggable: true,
@@ -167,10 +170,11 @@
                 shadowColor: colorList[2],
                 color: colorList[2]
               }
-            }
+            },
+            url: "https://baijiahao.baidu.com/s?id=1689194172623555189"
           },
           {
-            name: "医疗队女队员集体理平头和光头",
+            name: "上海新增3例本土确诊病例，详情公布",
             value: 2518,
             symbolSize: 50,
             draggable: true,
@@ -180,10 +184,12 @@
                 shadowColor: colorList[3],
                 color: colorList[3]
               }
-            }
+            },
+            url:
+              "https://baijiahao.baidu.com/s?id=1689475942253718657&wfr=spider&for=pc"
           },
           {
-            name: "缅怀疫情中逝去的人们",
+            name: "黑龙江望奎县升为高风险",
             value: 4730,
             symbolSize: 88,
             draggable: true,
@@ -193,10 +199,12 @@
                 shadowColor: colorList[4],
                 color: colorList[4]
               }
-            }
+            },
+            url:
+              "https://baijiahao.baidu.com/s?id=1689361531703224905&wfr=spider&for=pc"
           },
           {
-            name: "妨害疫情防控的违法行为",
+            name: "专家：口罩拉到下巴增加传染风险！别戴透明口罩",
             value: 1952,
             symbolSize: 55,
             draggable: true,
@@ -206,10 +214,12 @@
                 shadowColor: colorList[5],
                 color: colorList[5]
               }
-            }
+            },
+            url:
+              "https://baijiahao.baidu.com/s?id=1688736738900435893&wfr=spider&for=pc"
           },
           {
-            name: "66岁重症患者8天快速康复",
+            name: "返乡人员如何划定？国家卫生健康委权威回应",
             value: 926,
             symbolSize: 70,
             draggable: true,
@@ -219,10 +229,12 @@
                 shadowColor: colorList[6],
                 color: colorList[6]
               }
-            }
+            },
+            url:
+              "https://baijiahao.baidu.com/s?id=1689421705637698127&wfr=spider&for=pc"
           },
           {
-            name: "别让快递小哥一直等在寒风中",
+            name: "口罩不能摘！",
             value: 4536,
             symbolSize: 67,
             draggable: true,
@@ -232,10 +244,12 @@
                 shadowColor: colorList[7],
                 color: colorList[7]
               }
-            }
+            },
+            url:
+              "https://mbd.baidu.com/newspage/data/landingsuper?context=%7B%22nid%22%3A%22news_9474193836211072074%22%7D&n_type=-1&p_from=-1"
           },
           {
-            name: "湖北以外地区新增病例数连降5天",
+            name: "江苏：有序开展新冠疫苗接种",
             value: 750,
             symbolSize: 47,
             draggable: true,
@@ -245,10 +259,11 @@
                 shadowColor: colorList[8],
                 color: colorList[8]
               }
-            }
+            },
+            url: "http://news.cnhubei.com/tupian/p/13587810.html"
           },
           {
-            name: "女儿写给战疫一线爸爸的信",
+            name: "海南一女子造谣牛肉丸检出新冠病毒",
             value: 493,
             symbolSize: 82,
             draggable: true,
@@ -258,10 +273,11 @@
                 shadowColor: colorList[9],
                 color: colorList[9]
               }
-            }
+            },
+            url: "https://www.sohu.com/a/445957363_565502"
           },
           {
-            name: "青海连续3天无新增病例",
+            name: "香港新增70宗确诊病例",
             value: 385,
             symbolSize: 59,
             draggable: true,
@@ -271,10 +287,12 @@
                 shadowColor: colorList[10],
                 color: colorList[10]
               }
-            }
+            },
+            url:
+              "http://baijiahao.baidu.com/s?id=1689493840301048672&wfr=spider&for=pc"
           },
           {
-            name: "辽宁再派1000名医护人员驰援武汉",
+            name: "河北张北发挥文艺力量助力疫情防控",
             value: 4960,
             symbolSize: 90,
             draggable: true,
@@ -284,10 +302,12 @@
                 shadowColor: colorList[11],
                 color: colorList[11]
               }
-            }
+            },
+            url:
+              "http://baijiahao.baidu.com/s?id=1689488002749723877&wfr=spider&for=pc"
           },
           {
-            name: "抗击新型肺炎第一线",
+            name: "北京世纪坛医院职工全员完成核酸检测",
             value: 8694000,
             symbolSize: 50,
             draggable: true,
@@ -297,10 +317,12 @@
                 shadowColor: colorList[12],
                 color: colorList[12]
               }
-            }
+            },
+            url:
+              "http://baijiahao.baidu.com/s?id=1689486706164088220&wfr=spider&for=pc"
           },
           {
-            name: "12项疫情防控惠民政策",
+            name: "上海单日最大核酸检测量达72.8万份",
             value: 5668,
             symbolSize: 75,
             draggable: true,
@@ -310,10 +332,11 @@
                 shadowColor: colorList[13],
                 color: colorList[13]
               }
-            }
+            },
+            url: "https://m.sohu.com/a/445918562_362042"
           },
           {
-            name: "战疫一线的别样团圆",
+            name: "北京首次发现新冠变异毒株",
             value: 339,
             symbolSize: 68,
             draggable: true,
@@ -323,10 +346,11 @@
                 shadowColor: colorList[14],
                 color: colorList[14]
               }
-            }
+            },
+            url: "https://www.sohu.com/a/445893493_247813"
           },
           {
-            name: "31省区市心理援助热线",
+            name: "吉林通化：本次输入性疫情全市累计报告确诊病例123例",
             value: 671,
             symbolSize: 62,
             draggable: true,
@@ -336,60 +360,9 @@
                 shadowColor: colorList[15],
                 color: colorList[15]
               }
-            }
-          },
-          {
-            name: "元宵节亮灯为武汉加油",
-            value: 27000,
-            symbolSize: 114,
-            draggable: true,
-            itemStyle: {
-              normal: {
-                shadowBlur: 100,
-                shadowColor: colorList[16],
-                color: colorList[16]
-              }
-            }
-          },
-          {
-            name: "抗击新型肺炎我们在行动",
-            value: 10777000,
-            symbolSize: 130,
-            draggable: true,
-            itemStyle: {
-              normal: {
-                shadowBlur: 100,
-                shadowColor: colorList[10],
-                color: colorList[10]
-              }
-            }
-          },
-          {
-            name: "疫情中的逆行者",
-            value: 92000,
-            symbolSize: 123,
-            draggable: true,
-            itemStyle: {
-              normal: {
-                shadowBlur: 100,
-                shadowColor: colorList[10],
-                color: colorList[10]
-              }
-            }
-          },
-          {
-            name: "一张图看懂新冠肺炎",
-            value: 20000,
-            symbolSize: 141,
-            draggable: true,
-            itemStyle: {
-              normal: {
-                shadowBlur: 100,
-                shadowColor: colorList[10],
-                color: colorList[10]
-              }
             },
-            url: "https://gallery.echartsjs.com/preview.html?c=xPLngHx_Z&v=1"
+            url:
+              "http://baijiahao.baidu.com/s?id=1689478573679753417&wfr=spider&for=pc"
           }
         ]
       }
