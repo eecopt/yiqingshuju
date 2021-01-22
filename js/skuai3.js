@@ -131,7 +131,7 @@
         },
         data: [
           {
-            name: "无症状感染者为什么增多了",
+            name: "北京海淀：对网易大厦进行封控，对大厦全体人员进行核酸检测",
             value: 2373,
             symbolSize: 48,
             draggable: true,
@@ -143,7 +143,7 @@
               }
             },
             url:
-              "https://baijiahao.baidu.com/s?id=1689186116878758870&wfr=spider&for=pc"
+              "http://baijiahao.baidu.com/s?id=1689590406516075847&wfr=spider&for=pc"
           },
           {
             name: "北京新增3名本土感染者，最小感染者9岁",
