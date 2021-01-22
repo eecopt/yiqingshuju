@@ -24,7 +24,16 @@
     xAxis: [
       {
         type: "category",
-        data: ["吉林", "河北", "黑龙江", "上海", "广东", "四川", "上海"],
+        data: [
+          "黑龙江",
+          "吉林",
+          "河北",
+          "上海",
+          "北京",
+          "安徽",
+          "山西",
+          "福建"
+        ],
         axisTick: {
           alignWithLabel: true
         },
@@ -57,12 +66,12 @@
     ],
     series: [
       {
-        name: "新增: ",
+        name: "新增病例: ",
         type: "bar",
         // 柱子宽度
 
         barWidth: "35%",
-        data: [68, 45, 16, 33, 4, 3, 5],
+        data: [47, 19, 18, 9, 4, 3, 1, 1, 1],
         itemStyle: {
           // 修改柱子圆角
           barBorderRadius: 5
@@ -89,111 +98,111 @@
     },
     {
       name: "北京",
-      value: 54
+      value: 47
     },
     {
       name: "天津",
-      value: 13
+      value: 23
     },
     {
       name: "上海",
-      value: 40
+      value: 100
     },
     {
       name: "重庆",
-      value: 75
+      value: 1
     },
     {
       name: "河北",
-      value: 13
+      value: 844
     },
     {
       name: "河南",
-      value: 83
-    },
-    {
-      name: "云南",
-      value: 11
-    },
-    {
-      name: "辽宁",
-      value: 19
-    },
-    {
-      name: "黑龙江",
-      value: 15
-    },
-    {
-      name: "湖南",
-      value: 69
-    },
-    {
-      name: "安徽",
-      value: 60
-    },
-    {
-      name: "山东",
-      value: 39
-    },
-    {
-      name: "新疆",
-      value: 4
-    },
-    {
-      name: "江苏",
-      value: 31
-    },
-    {
-      name: "浙江",
-      value: 104
-    },
-    {
-      name: "江西",
-      value: 36
-    },
-    {
-      name: "湖北",
-      value: 1052
-    },
-    {
-      name: "广西",
-      value: 33
-    },
-    {
-      name: "甘肃",
-      value: 7
-    },
-    {
-      name: "山西",
-      value: 9
-    },
-    {
-      name: "内蒙古",
-      value: 7
-    },
-    {
-      name: "陕西",
-      value: 22
-    },
-    {
-      name: "吉林",
-      value: 4
-    },
-    {
-      name: "福建",
-      value: 18
-    },
-    {
-      name: "贵州",
       value: 5
     },
     {
+      name: "云南",
+      value: 1
+    },
+    {
+      name: "辽宁",
+      value: 20
+    },
+    {
+      name: "黑龙江",
+      value: 306
+    },
+    {
+      name: "湖南",
+      value: 5
+    },
+    {
+      name: "安徽",
+      value: 1
+    },
+    {
+      name: "山东",
+      value: 3
+    },
+    {
+      name: "新疆",
+      value: 0
+    },
+    {
+      name: "江苏",
+      value: 4
+    },
+    {
+      name: "浙江",
+      value: 10
+    },
+    {
+      name: "江西",
+      value: 0
+    },
+    {
+      name: "湖北",
+      value: 1
+    },
+    {
+      name: "广西",
+      value: 3
+    },
+    {
+      name: "甘肃",
+      value: 0
+    },
+    {
+      name: "山西",
+      value: 7
+    },
+    {
+      name: "内蒙古",
+      value: 14
+    },
+    {
+      name: "陕西",
+      value: 26
+    },
+    {
+      name: "吉林",
+      value: 185
+    },
+    {
+      name: "福建",
+      value: 19
+    },
+    {
+      name: "贵州",
+      value: 0
+    },
+    {
       name: "广东",
-      value: 98
+      value: 41
     },
     {
       name: "青海",
-      value: 1
+      value: 0
     },
     {
       name: "西藏",
@@ -201,27 +210,27 @@
     },
     {
       name: "四川",
-      value: 44
+      value: 10
     },
     {
       name: "宁夏",
-      value: 4
+      value: 0
     },
     {
       name: "海南",
-      value: 22
+      value: 0
     },
     {
       name: "台湾",
-      value: 3
+      value: 97
     },
     {
       name: "香港",
-      value: 5
+      value: 812
     },
     {
       name: "澳门",
-      value: 5
+      value: 1
     }
   ];
   option = {

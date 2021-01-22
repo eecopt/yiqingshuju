@@ -35,9 +35,9 @@
           show: false
         },
         data: [
-          { value: 777, name: "石家庄" },
+          { value: 786, name: "石家庄" },
           { value: 1, name: "廊坊" },
-          { value: 53, name: "邢台" }
+          { value: 55, name: "邢台" }
         ]
       }
     ]

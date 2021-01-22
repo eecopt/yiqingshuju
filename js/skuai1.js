@@ -13,9 +13,9 @@
     "北京",
     "广东",
     "陕西",
-    "辽宁"
+    "天津"
   ];
-  var salvProValue = [825, 766, 193, 133, 94, 86, 43, 41, 27, 26];
+  var salvProValue = [844, 812, 306, 185, 100, 97, 47, 41, 26, 23];
   var salvProMax = []; //背景按最大值
   for (let i = 0; i < salvProValue.length; i++) {
     salvProMax.push(salvProValue[0]);
@@ -80,7 +80,7 @@
     ],
     series: [
       {
-        name: "值",
+        name: "确诊人数",
         type: "bar",
         zlevel: 1,
         itemStyle: {
